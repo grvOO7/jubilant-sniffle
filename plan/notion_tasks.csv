@@ -1,0 +1,72 @@
+Task,Week,Start,Due,Phase,Track,Owner,Priority,Est Hours,Status,Done When
+"Read employment contract: moonlighting, conflict-of-interest, IP clauses",Week 1,2026-11-02,2026-11-08,0 Foundations,Setup,Gaurav,P0,1,Not started,Written note: allowed / needs approval / not allowed
+Block recurring calendar slots for ~25 hrs/week,Week 1,2026-11-02,2026-11-08,0 Foundations,Setup,Gaurav,P0,1,Not started,Slots visible in calendar for 12 weeks
+"Write brand name shortlist (10), positioning statement, 3 offer one-pagers",Week 1,2026-11-02,2026-11-08,0 Foundations,Setup,Claude,P0,2,Not started,Doc ready for Gaurav to pick from
+"Pick brand name, buy domain, create business email and LinkedIn headline update",Week 1,2026-11-02,2026-11-08,0 Foundations,Setup,Gaurav,P0,2,Not started,"Domain live, LinkedIn updated"
+"Create and verify accounts: Gumroad (bank payout), Lemon Squeezy, Upwork, Contra, Topmate",Week 1,2026-11-02,2026-11-08,0 Foundations,Setup,Gaurav,P0,2,Not started,KYC submitted on each
+"Write docker-compose + step-by-step guide to self-host n8n (Postgres, HTTPS, backups)",Week 1,2026-11-02,2026-11-08,0 Foundations,Setup,Claude,P0,2,Not started,"Guide in repo, tested for syntax"
+Get n8n running (Cloud trial or small VPS using my guide),Week 1,2026-11-02,2026-11-08,0 Foundations,Setup,Gaurav,P0,3,Not started,Can log in and run a test workflow
+"Rank 5 niches with pain points, lead value and objections; draft discovery-call questions",Week 1,2026-11-02,2026-11-08,0 Foundations,Research,Claude,P0,2,Not started,Doc ready
+"Hold 10 discovery chats with Bangalore business owners (clinic, realty, coaching, D2C, CA); log answers",Week 1,2026-11-02,2026-11-08,0 Foundations,Outreach,Gaurav,P0,4,Not started,"10 notes in Notion, niche #1 picked"
+"Book 1-hour CA consult: GST, export of services, freelance income tax",Week 1,2026-11-02,2026-11-08,0 Foundations,Ops,Gaurav,P1,1,Not started,Notes saved
+Import tasks CSV into Notion and set up weekly KPI database,Week 1,2026-11-02,2026-11-08,0 Foundations,Ops,Gaurav,P1,0.5,Not started,Board visible
+"Channel audit checklist and repositioning suggestions (name, banner, about, playlists)",Week 1,2026-11-02,2026-11-08,0 Foundations,YouTube,Claude,P2,1,Not started,Checklist delivered
+"Build workflow 1: Missed-Lead Rescue (form/webhook to sheet CRM, instant reply, follow-up sequence, daily digest) as importable n8n JSON + README",Week 2,2026-11-09,2026-11-15,1 Build and start selling,Build,Claude,P0,5,Not started,JSON + README in repo
+Build workflow 2: Google review request automator for clinics/salons,Week 2,2026-11-09,2026-11-15,1 Build and start selling,Build,Claude,P0,3,Not started,JSON + README
+Build workflow 3: Payment/document reminder bot for CA firms and freelancers,Week 2,2026-11-09,2026-11-15,1 Build and start selling,Build,Claude,P1,3,Not started,JSON + README
+Import and test all 3 workflows in your n8n; list what breaks,Week 2,2026-11-09,2026-11-15,1 Build and start selling,Build,Gaurav,P0,3,Not started,Each runs end to end with test data
+Record 3-minute demo video of workflow 1 (screen + voice),Week 2,2026-11-09,2026-11-15,1 Build and start selling,Build,Gaurav,P1,1,Not started,Video file uploaded
+"Write outreach scripts: LinkedIn DM, email, warm intro, call script, objection handling (2 variants each)",Week 2,2026-11-09,2026-11-15,1 Build and start selling,Sales,Claude,P0,3,Not started,Scripts in repo
+"Write proposal template, pricing sheet, simple service agreement template (not legal advice)",Week 2,2026-11-09,2026-11-15,1 Build and start selling,Sales,Claude,P0,3,Not started,Templates in repo
+"Build list of 100 prospects in niche #1 (name, business, contact, trigger) using Google Maps/LinkedIn manually",Week 2,2026-11-09,2026-11-15,1 Build and start selling,Sales,Gaurav,P0,4,Not started,100 rows in sheet
+Build single-page landing site (HTML) for the flagship offer with booking link,Week 2,2026-11-09,2026-11-15,1 Build and start selling,Site,Claude,P1,3,Not started,Files in repo
+Deploy landing page free (Cloudflare Pages/Netlify) and connect domain,Week 2,2026-11-09,2026-11-15,1 Build and start selling,Site,Gaurav,P1,1,Not started,Live URL
+Send 20 personalised messages every weekday (100 this week); log in Notion,Week 3,2026-11-16,2026-11-22,1 Build and start selling,Outreach,Gaurav,P0,5,Not started,"100 sent, replies logged"
+Draft personalised first lines for each prospect from the list you share,Week 3,2026-11-16,2026-11-22,1 Build and start selling,Outreach,Claude,P0,1,Not started,Lines delivered same day
+Take discovery calls (target 5 this week); use call script,Week 3,2026-11-16,2026-11-22,1 Build and start selling,Sales,Gaurav,P0,3,Not started,"Calls logged, objections noted"
+"Create product 1: Indian freelancer GST invoice + income tracker (Sheets/Notion), price Rs 299-499",Week 3,2026-11-16,2026-11-22,1 Build and start selling,Products,Claude,P1,4,Not started,Files + listing copy
+"Create product 2: n8n Starter Pack (3 workflows + guide), price Rs 999-1,499",Week 3,2026-11-16,2026-11-22,1 Build and start selling,Products,Claude,P1,4,Not started,Zip + PDF guide + listing copy
+Create product 3: profession-specific AI prompt pack (pick one profession from discovery calls),Week 3,2026-11-16,2026-11-22,1 Build and start selling,Products,Claude,P2,3,Not started,Doc + listing copy
+List products 1-3 on Gumroad with covers and preview,Week 3,2026-11-16,2026-11-22,1 Build and start selling,Products,Gaurav,P1,2,Not started,3 live listings
+Script video 1: I built an AI that rescues missed leads for a clinic (n8n),Week 3,2026-11-16,2026-11-22,1 Build and start selling,YouTube,Claude,P2,1,Not started,Script delivered
+Record and publish video 1 plus 2 Shorts,Week 3,2026-11-16,2026-11-22,1 Build and start selling,YouTube,Gaurav,P2,3,Not started,Published
+"Offer 2 discounted pilots in exchange for testimonial, case study and 2 referrals",Week 4,2026-11-23,2026-11-29,1 Build and start selling,Sales,Gaurav,P0,4,Not started,2 pilots agreed in writing
+"Deliver pilot 1 (I adapt the workflow, you deploy and test)",Week 4,2026-11-23,2026-11-29,1 Build and start selling,Build,Both,P0,6,Not started,Client confirms it works
+Continue 20 messages/weekday; follow up on silent leads after 3 days,Week 4,2026-11-23,2026-11-29,1 Build and start selling,Outreach,Gaurav,P0,5,Not started,Cumulative 200 sent
+Create Upwork/Contra profile and send 3 proposals/day for n8n/automation jobs,Week 4,2026-11-23,2026-11-29,1 Build and start selling,Sales,Gaurav,P1,2,Not started,"Profile live, 10 proposals sent"
+"GATE 1 review: 100+ outreach, 10+ calls, 2+ pilots? Decide continue or change offer/niche",Week 4,2026-11-23,2026-11-29,1 Build and start selling,Review,Both,P0,1,Not started,Decision written down
+Publish video 2 plus Shorts,Week 4,2026-11-23,2026-11-29,1 Build and start selling,YouTube,Gaurav,P2,3,Not started,Published
+Convert pilots to paid retainers or upsell; send proposals using template,Week 5,2026-11-30,2026-12-06,2 Close and deliver,Sales,Gaurav,P0,5,Not started,1+ proposal accepted or clear no with reason
+Deliver pilot 2 and start paid client work,Week 5,2026-11-30,2026-12-06,2 Close and deliver,Build,Both,P0,6,Not started,Delivered
+"Write case study 1 from pilot results (numbers, before/after)",Week 5,2026-11-30,2026-12-06,2 Close and deliver,Sales,Claude,P1,2,Not started,Case study draft
+Keep outreach at 20/day; test message variant B,Week 5,2026-11-30,2026-12-06,2 Close and deliver,Outreach,Gaurav,P0,5,Not started,Reply rate per variant logged
+Publish video 3,Week 5,2026-11-30,2026-12-06,2 Close and deliver,YouTube,Gaurav,P2,3,Not started,Published
+"Create products 4-5 from client builds (generalised, no client data)",Week 6,2026-12-07,2026-12-13,2 Close and deliver,Products,Claude,P1,4,Not started,Files + copy
+List products 4-5; email list or LinkedIn announce,Week 6,2026-12-07,2026-12-13,2 Close and deliver,Products,Gaurav,P1,2,Not started,Live
+Ask every happy client for a testimonial and 2 referrals,Week 6,2026-12-07,2026-12-13,2 Close and deliver,Sales,Both,P0,4,Not started,Referrals logged
+Outreach 20/day; add niche #2 test (50 messages),Week 6,2026-12-07,2026-12-13,2 Close and deliver,Outreach,Gaurav,P0,5,Not started,Niche comparison table
+Publish video 4,Week 6,2026-12-07,2026-12-13,2 Close and deliver,YouTube,Gaurav,P2,3,Not started,Published
+"Prepare Meta ad test for best-selling product (creative, copy, audience, Rs 300-500/day cap)",Week 7,2026-12-14,2026-12-20,2 Close and deliver,Ads,Claude,P2,2,Not started,Ad plan ready
+Launch 5-day ad test only if the product has organic sales; stop if CPA > price,Week 7,2026-12-14,2026-12-20,2 Close and deliver,Ads,Gaurav,P2,2,Not started,Test result logged
+Close client 3; raise price for new deals by 20-30%,Week 7,2026-12-14,2026-12-20,2 Close and deliver,Sales,Gaurav,P0,5,Not started,Deal closed
+Build AI lead-qualifier / FAQ bot workflow (premium offer demo),Week 7,2026-12-14,2026-12-20,2 Close and deliver,Build,Claude,P1,4,Not started,JSON + README
+Publish video 5,Week 7,2026-12-14,2026-12-20,2 Close and deliver,YouTube,Gaurav,P2,3,Not started,Published
+"Convert one-off clients to monthly retainers (reports, maintenance, new automations)",Week 8,2026-12-21,2026-12-27,2 Close and deliver,Sales,Both,P0,3,Not started,Retainers signed
+"GATE 2 review: 1+ paying client, 1+ case study? If not, diagnose offer/price/audience",Week 8,2026-12-21,2026-12-27,2 Close and deliver,Review,Both,P0,1,Not started,Decision written down
+Write case study 2 and add both to landing page and Upwork profile,Week 8,2026-12-21,2026-12-27,2 Close and deliver,Sales,Claude,P1,2,Not started,Updated pages
+Publish video 6,Week 8,2026-12-21,2026-12-27,2 Close and deliver,YouTube,Gaurav,P2,3,Not started,Published
+Pitch 5 web/marketing agencies for white-label automation partnership,Week 9,2026-12-28,2027-01-03,3 Systemise and scale,Sales,Gaurav,P0,5,Not started,"5 pitches sent, 2 calls"
+Write agency partnership one-pager and revenue-share terms draft,Week 9,2026-12-28,2027-01-03,3 Systemise and scale,Sales,Claude,P1,2,Not started,Doc ready
+Continue outreach and referral asks,Week 9,2026-12-28,2027-01-03,3 Systemise and scale,Outreach,Gaurav,P0,5,Not started,Logged
+Publish video 7,Week 9,2026-12-28,2027-01-03,3 Systemise and scale,YouTube,Gaurav,P2,3,Not started,Published
+Productise best-selling workflow into a Premium Pack (higher price) with setup video script,Week 10,2027-01-04,2027-01-10,3 Systemise and scale,Build,Claude,P1,5,Not started,Pack ready
+List Premium Pack; run launch to email/LinkedIn list,Week 10,2027-01-04,2027-01-10,3 Systemise and scale,Products,Gaurav,P1,2,Not started,Live
+Close 1-2 more clients; fill calendar for Jan,Week 10,2027-01-04,2027-01-10,3 Systemise and scale,Sales,Gaurav,P0,5,Not started,Pipeline logged
+Publish video 8,Week 10,2027-01-04,2027-01-10,3 Systemise and scale,YouTube,Gaurav,P2,3,Not started,Published
+Upwork/global: apply with case studies at USD rates,Week 11,2027-01-11,2027-01-17,3 Systemise and scale,Sales,Gaurav,P0,5,Not started,"5+ proposals, 1 call"
+"Set up invoicing, expense log and quarterly tax reserve (with CA advice)",Week 11,2027-01-11,2027-01-17,3 Systemise and scale,Ops,Gaurav,P1,2,Not started,System running
+"Analyse 11 weeks of KPIs: what to double, what to drop",Week 11,2027-01-11,2027-01-17,3 Systemise and scale,Review,Claude,P1,2,Not started,Report delivered
+Publish video 9,Week 11,2027-01-11,2027-01-17,3 Systemise and scale,YouTube,Gaurav,P2,3,Not started,Published
+"GATE 3 review: double down, pivot niche, or add next layer (micro-SaaS, courses, cohort)",Week 12,2027-01-18,2027-01-24,3 Systemise and scale,Review,Both,P0,2,Not started,Quarter-2 plan agreed
+Hit monthly run-rate target; lock Feb retainers,Week 12,2027-01-18,2027-01-24,3 Systemise and scale,Sales,Gaurav,P0,5,Not started,Signed retainers
+Publish video 10 plus 12-week results video,Week 12,2027-01-18,2027-01-24,3 Systemise and scale,YouTube,Gaurav,P2,3,Not started,Published
